@@ -1,0 +1,1 @@
+This repository demonstrates a common issue in Perl where the order of elements in a hash is not guaranteed.  The `bug.pl` file shows code that iterates through a hash, and the output might be unexpected due to the unordered nature of hashes. The `bugSolution.pl` file provides solutions to maintain order if needed, by using alternative data structures.
